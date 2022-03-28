@@ -1,8 +1,8 @@
 ## Olá 👋
 
 
-- 🔭 Trabalho com suporte de sistemas.
-- 🌱 Atualmente estudando de lógica de programação e C#.
+- 🔭 Estagiando em Desenvolvimento C#
+- 🌱 Atualmente estudando de lógica de programação, C# e .NET.
 
 ##
 
