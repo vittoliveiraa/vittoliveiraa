@@ -1,7 +1,7 @@
 ## Olá 👋
 
 
-- 🔭 Estagiando em Desenvolvimento C#
+- 🔭 Desenvolvedor Junior C# e .NET
 - 🌱 Atualmente estudando de lógica de programação, C# e .NET.
 
 ##
