@@ -13,11 +13,13 @@
 
 ## IDE's
 <div style="display: inline_block">
-        <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-        <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+        <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
+                <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+        </a>
+        <a href="https://code.visualstudio.com/">
+                <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+        </a>
     </div><br>
-
-
 
 ## Tecnologias
 <div>
@@ -28,7 +30,6 @@
     <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
    </div><br>
-
 
 ## Contato
 
