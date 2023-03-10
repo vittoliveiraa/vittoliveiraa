@@ -2,7 +2,7 @@
 <br>
 
 - Desenvolvedor C# e .NET
-- Atulamente estudando sobre WebApis e abordagem DDD
+- Atulamente estudando sobre WebApis, abordagem DDD e Blazor
 
 <br>
 
