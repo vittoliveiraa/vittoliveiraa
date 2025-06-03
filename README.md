@@ -2,7 +2,6 @@
 <br>
 
 - Desenvolvedor C# e .NET
-- Atulamente estudando sobre Lógica de programação através do curso.dev
 
 <br>
 
